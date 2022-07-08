@@ -1,5 +1,3 @@
-# previs
-
-pre-visualisation
+# modular homes
 
 ![module](module.png)
